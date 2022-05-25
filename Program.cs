@@ -74,7 +74,7 @@ Console.WriteLine("El coseno: " + Math.Cos(num));
 Console.WriteLine("La parte entera: " + Convert.ToInt32(num));
 
 double x,y;
-Console.WriteLine("***Conozcamos el maximo y minimo entre dos numeros***")
+Console.WriteLine("***Conozcamos el maximo y minimo entre dos numeros***");
 Console.WriteLine("Ingrese el primer numero: ");
 x = double.Parse(Console.ReadLine());
 Console.WriteLine("Ingrese el segundo numero: ");
