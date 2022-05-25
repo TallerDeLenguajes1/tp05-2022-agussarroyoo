@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-
+Console.WriteLine("Hello, World!");
 Console.WriteLine("CALCULADORA VERSION 1");
 short start = 0;
 do
@@ -27,15 +27,15 @@ do
             break;
         case 2:
             resultado = Resta(a,b);
-            Console.WriteLine("El resultado de a+b es " + resultado);
+            Console.WriteLine("El resultado de a-b es " + resultado);
             break;
         case 3:
             resultado = Multiplicacion(a,b);
-            Console.WriteLine("El resultado de a+b es " + resultado);
+            Console.WriteLine("El resultado de a*b es " + resultado);
             break;
         case 4:
             resultado = Division(a,b);
-            Console.WriteLine("El resultado de a+b es " + resultado);
+            Console.WriteLine("El resultado de a/b es " + resultado);
             break;
     }
     Console.WriteLine("Desea realizar otra operacion? Seleccione 0.");
@@ -74,12 +74,10 @@ Console.WriteLine("El coseno: " + Math.Cos(num));
 Console.WriteLine("La parte entera: " + Convert.ToInt32(num));
 
 double x,y;
+Console.WriteLine("***Conozcamos el maximo y minimo entre dos numeros***")
 Console.WriteLine("Ingrese el primer numero: ");
 x = double.Parse(Console.ReadLine());
 Console.WriteLine("Ingrese el segundo numero: ");
 y = double.Parse(Console.ReadLine());
 Console.WriteLine("El máximo es " + Math.Max(x,y));
 Console.WriteLine("El minimo es " + Math.Min(x,y));
-
-
-

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Agu\\Desktop\\taller\\MyApp\\MyApp.csproj": {}
+    "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\tp05-2022-agussarroyoo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Agu\\Desktop\\taller\\MyApp\\MyApp.csproj": {
+    "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\tp05-2022-agussarroyoo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Agu\\Desktop\\taller\\MyApp\\MyApp.csproj",
-        "projectName": "MyApp",
-        "projectPath": "C:\\Users\\Agu\\Desktop\\taller\\MyApp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\tp05-2022-agussarroyoo.csproj",
+        "projectName": "tp05-2022-agussarroyoo",
+        "projectPath": "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\tp05-2022-agussarroyoo.csproj",
         "packagesPath": "C:\\Users\\Agu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Agu\\Desktop\\taller\\MyApp\\obj\\",
+        "outputPath": "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Agu\\AppData\\Roaming\\NuGet\\NuGet.Config"

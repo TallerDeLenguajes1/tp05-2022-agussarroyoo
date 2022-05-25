@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "MyApp/1.0.0": {
+      "tp05-2022-agussarroyoo/1.0.0": {
         "runtime": {
-          "MyApp.dll": {}
+          "tp05-2022-agussarroyoo.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "MyApp/1.0.0": {
+    "tp05-2022-agussarroyoo/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

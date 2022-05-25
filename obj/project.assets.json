@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\MyApp.csproj",
-      "projectName": "MyApp",
-      "projectPath": "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\tp05-2022-agussarroyoo.csproj",
+      "projectName": "tp05-2022-agussarroyoo",
+      "projectPath": "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\tp05-2022-agussarroyoo.csproj",
       "packagesPath": "C:\\Users\\Agu\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Agu\\Desktop\\taller\\tp05-2022-agussarroyoo\\obj\\",
       "projectStyle": "PackageReference",
