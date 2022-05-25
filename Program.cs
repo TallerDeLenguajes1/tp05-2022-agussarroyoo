@@ -81,3 +81,29 @@ Console.WriteLine("Ingrese el segundo numero: ");
 y = double.Parse(Console.ReadLine());
 Console.WriteLine("El máximo es " + Math.Max(x,y));
 Console.WriteLine("El minimo es " + Math.Min(x,y));
+
+
+Console.WriteLine("Hello, World!");
+Console.WriteLine("Ingrese una cadena: ");
+string cadena = Console.ReadLine();
+
+Console.WriteLine("La cadena ingresada fue: " + cadena);
+
+Console.WriteLine("Ingrese la cantidad de caracteres a imprimir: ");
+int caracteres = Int32.Parse(Console.ReadLine());
+Console.WriteLine("La subcadena es: " + cadena.Substring(caracteres));
+Console.WriteLine("La cadena contiene " + cadena.Length + " caracteres");
+
+string segCadena;
+do
+{
+    Console.WriteLine("Ingrese una cadena distinta a concatenar: ");
+    segCadena = Console.ReadLine();
+} while (cadena.CompareTo(segCadena) == 0);
+
+
+Console.WriteLine("Cadena final: " + String.Concat(cadena, segCadena));
+
+Console.WriteLine("Ingrese la cantidad de caracteres de la subcadena: ");
+int caracteres = Int32.Parse(Console.ReadLine());
+Console.WriteLine("La subcadena es: " + cadena.Substring(caracteres));
